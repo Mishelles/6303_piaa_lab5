@@ -3,4 +3,8 @@
 
 #include <gtest/gtest.h>
 
+struct TestKMP : testing::withParamInterface<patternSearchState> {
+  
+}
+
 #endif

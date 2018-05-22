@@ -4,6 +4,11 @@ project(KMP)
 
 set(CMAKE_CXX_STANDARD 11)
 
+enable_testing()
+find_package(GTest REQUIRED)
+
+
+
 add_executable(patternSearch src/patternSearch.cpp src/KMP.cpp src/KMP.h)
 add_executable(checkShift src/checkShift.cpp src/KMP.cpp src/KMP.h)
 
@@ -12,3 +17,5 @@ add_executable(checkShift src/checkShift.cpp src/KMP.cpp src/KMP.h)
 
 #target_link_libraries(kmp_test gtest gtest_main)
 #target_link_libraries(cycle_shift_test gtest gtest_main)
+
+add_executable(patternSearchTest test/testPatternSearch.cpp)
