@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/testCheckShift.dir/test/testCheckShift.cpp.o CMakeFiles/testCheckShift.dir/test/TestKMP.cpp.o CMakeFiles/testCheckShift.dir/src/KMP.cpp.o  -o testCheckShift /usr/lib/libgtest.a -lpthread 

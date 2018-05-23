@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/checkShift.dir/src/checkShift.cpp.o CMakeFiles/checkShift.dir/src/KMP.cpp.o  -o checkShift 

@@ -1,4 +1,0 @@
-TestPrefix 2 0.00143647
-TestPatternSearch 2 0.00135958
-TestCheckShift 2 0.00120151
----

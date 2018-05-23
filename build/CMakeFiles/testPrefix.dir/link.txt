@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/testPrefix.dir/test/testPrefix.cpp.o CMakeFiles/testPrefix.dir/test/TestKMP.cpp.o CMakeFiles/testPrefix.dir/src/KMP.cpp.o  -o testPrefix /usr/lib/libgtest.a -lpthread 

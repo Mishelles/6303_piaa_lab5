@@ -1,8 +1,0 @@
-/home/user/6303_piaa_lab5/build/CMakeFiles/rebuild_cache.dir
-/home/user/6303_piaa_lab5/build/CMakeFiles/testCheckShift.dir
-/home/user/6303_piaa_lab5/build/CMakeFiles/patternSearch.dir
-/home/user/6303_piaa_lab5/build/CMakeFiles/test.dir
-/home/user/6303_piaa_lab5/build/CMakeFiles/checkShift.dir
-/home/user/6303_piaa_lab5/build/CMakeFiles/edit_cache.dir
-/home/user/6303_piaa_lab5/build/CMakeFiles/testPrefix.dir
-/home/user/6303_piaa_lab5/build/CMakeFiles/testPatternSearch.dir
