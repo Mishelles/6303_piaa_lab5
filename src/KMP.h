@@ -12,8 +12,6 @@ public:
 
   int checkShift(const std::string&, const std::string&);
 
-private:
-
   std::vector<int> prefixFunction(const std::string&);
 
 };

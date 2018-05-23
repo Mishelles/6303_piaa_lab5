@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/patternSearchTest.dir/test/testPatternSearch.cpp.o CMakeFiles/patternSearchTest.dir/test/TestKMP.cpp.o CMakeFiles/patternSearchTest.dir/src/KMP.cpp.o  -o patternSearchTest /usr/lib/libgtest.a -lpthread 

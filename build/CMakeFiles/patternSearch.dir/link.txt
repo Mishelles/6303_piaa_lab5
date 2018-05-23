@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/patternSearch.dir/src/patternSearch.cpp.o CMakeFiles/patternSearch.dir/src/KMP.cpp.o  -o patternSearch 
